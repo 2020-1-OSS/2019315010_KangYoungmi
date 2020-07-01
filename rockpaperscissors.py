@@ -26,3 +26,10 @@ elif player == "Paper":
          print("You win!")
      else:
          print("You lose!")
+
+# scissors
+elif player == "Scissors":
+     if computer == "Paper":
+         print("You win!")
+     else:
+         print("You lose!")
