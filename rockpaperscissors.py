@@ -8,3 +8,7 @@ print('Computer: {}'.format(computer))
 # get the user input
 player = "Paper"
 print('Player: {}'.format(player))
+
+# tie
+if player == computer:
+     print("Tie!")
